@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project implements a `Song` class that models a simple music library system. It tracks individual songs and maintains aggregated data such as total songs, genres, and artists.
-
----
+This project implements a `Song` class that models a simple music library system. It tracks individual songs and maintains aggregated data such as total songs, genres, and artists.done
 
 ## Attributes
 
